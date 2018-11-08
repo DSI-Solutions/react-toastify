@@ -1,5 +1,5 @@
 {
-  "name": "react-toastify",
+  "name": "@dsisolutions/react-toastify",
   "version": "4.4.0",
   "description": "React notification made easy",
   "keywords": [
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkhadra/react-toastify.git"
+    "url": "git+https://github.com/DSI-Solutions/react-toastify.git"
   },
   "author": "Fadi Khadra  <fdkhadra@gmail.com> (https://fkhadra.github.io)",
   "license": "MIT",
